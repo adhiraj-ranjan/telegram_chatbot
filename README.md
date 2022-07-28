@@ -2,10 +2,9 @@
 Create your AI telegram chatbot.
 
 ### Install Dependencies
-- requests
 - python-telegram-bot
 
-**`pip install requests tablate`** or **`pip install requirements.txt`**
+**`pip install requests python-telegram-bot`** or **`pip install requirements.txt`**
 
 ### Usage
 1) Create your own Bot by going to BotFather on telegram and get your bot token.
