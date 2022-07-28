@@ -4,7 +4,7 @@ Create your AI telegram chatbot.
 
 !) Here is the Test Bot
 
-ElizaBot - <a href="https://t.me/ElizaChatBot" target="_blank">
+ElizaBot - <a href="https://t.me/ElizaChatBot" target="_blank">https://t.me/ElizaChatBot</a>
 
 ### Install Dependencies
 - python-telegram-bot
